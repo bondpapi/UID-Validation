@@ -34,21 +34,21 @@ For each test case:
 
     - Print Invalid if the UID does not meet the criteria.
 
-# Example
+## Example
 
-## Input
+### Input
 
-2
+`2`
 
-B1CD102354
+`B1CD102354`
 
-B1CDEF2354
+`B1CDEF2354`
 
-## Output
+### Output
 
-Invalid
+`Invalid`
 
-Valid
+`Valid`
 
 ## Explanation
 
@@ -56,7 +56,7 @@ Valid
 
 2. In the second test case (B1CDEF2354), the UID meets all criteria and is marked as Valid.
 
-# How to Run
+## How to Run
 
 1. Ensure you have Python 3 installed on your system.
 
